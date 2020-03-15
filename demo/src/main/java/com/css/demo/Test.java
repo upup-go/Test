@@ -8,6 +8,7 @@ import com.css.api.ITest;
  **/
 public class Test {
     int mmmmqqq=10;
-    int ccc=20;
-    int sss=11;
+    int ccc333=20;
+    int sss=5555;
+
 }
