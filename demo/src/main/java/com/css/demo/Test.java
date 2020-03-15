@@ -2,13 +2,13 @@ package com.css.demo;
 
 import com.css.api.ITest;
 
+import javax.annotation.sql.DataSourceDefinition;
+
 /**
  * @author hwj
  * @date 2020/03/11
  **/
 public class Test {
-    int mmmmqqq=10;
-    int ccc333=20;
-    int sss=5555;
+    private Integer max=12;
 
 }
