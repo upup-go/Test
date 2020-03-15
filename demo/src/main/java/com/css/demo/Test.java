@@ -7,6 +7,7 @@ import com.css.api.ITest;
  * @date 2020/03/11
  **/
 public class Test {
-    int mmmm=10;
+    int mmmmqqq=10;
     int ccc=20;
+    int sss=11;
 }
